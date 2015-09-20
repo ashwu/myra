@@ -24,3 +24,11 @@
 	margin-left: 10px;
 	margin-right: 10px;
 }
+
+#lady {
+	/*height: 400px;*/
+	display: block;
+	width: 200px;
+	margin: 0 auto;
+	float: left;
+}
